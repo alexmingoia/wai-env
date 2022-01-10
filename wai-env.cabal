@@ -1,7 +1,7 @@
 name:                wai-env
 version:             1.0.0.0
--- synopsis:
--- description:
+synopsis:						 WAI middleware to parameterize requests with environment. 
+description:				 WAI middleware to parameterize requests with environment, and retrieve environment from requests.
 homepage:            https://github.com/alexmingoia/wai-env#readme
 license:             BSD3
 license-file:        LICENSE
